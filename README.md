@@ -1,6 +1,6 @@
-# Simple Compiler Assembler to MIPS32bits
+# Simple Assembler to MIPS32bits
 
-Very simple version of an Assembly compiler to binary code.
+Very simple version of an Assembler to binary code.
 
 Use mode: 
 
